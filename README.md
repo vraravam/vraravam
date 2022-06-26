@@ -32,4 +32,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vraravam&icon=0&color=1)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=vraravam&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
