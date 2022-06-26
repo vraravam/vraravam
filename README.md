@@ -5,6 +5,9 @@
 💬 Ask me about git, testing, build tools, Docker, etc<br>
 👨‍💻 Most of my projects are available at [github](https://github.com/vraravam)
 
+## Pinned projects
+[![Git Secrets](https://github-readme-stats.vercel.app/api/pin/?username=vraravam&repo=git_scripts&show_owner=true)](https://github.com/vraravam/git_scripts)
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vraravam) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/avijayr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2301887) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/avijayr1)
@@ -15,7 +18,7 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vraravam&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vraravam&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vraravam&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vraravam&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
