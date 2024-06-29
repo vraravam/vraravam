@@ -6,6 +6,7 @@
 👨‍💻 Most of my projects are available at [github](https://github.com/vraravam)
 
 ## Pinned projects
+[![](https://github-readme-stats.vercel.app/api/pin/?username=vraravam&repo=dotfiles&show_owner=true)](https://github.com/vraravam/dotfiles)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=vraravam&repo=git_scripts&show_owner=true)](https://github.com/vraravam/git_scripts)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ferdium&repo=ferdium-app&show_owner=true)](https://github.com/ferdium/ferdium-app)
 
