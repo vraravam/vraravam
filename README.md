@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 Other than my day job at [/thoughtworks](https://www.thoughtworks.com), I’m currently working on [ferdium](https://github.com/ferdium/ferdium-app) and would love some collaborators<br>
-🤝 I love to help others with my programming skills, and so most of my mac setup, and other utilities are also shared via my [github gists](https://gist.github.com/vraravam/starred)<br>
+🤝 I love to help others with my programming skills, and so most of my mac setup, and other utilities are also shared via my [dotfiles repo](https://github.com/vraravam/dotfiles) and my [github gists](https://gist.github.com/vraravam/starred)<br>
 💬 Ask me about git, testing, build tools, Docker, etc<br>
 👨‍💻 Most of my projects are available at [github](https://github.com/vraravam)
 
